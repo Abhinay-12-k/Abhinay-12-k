@@ -6,7 +6,7 @@
 
   <br />
 
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Futuristic Developer Animation" width="650"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Futuristic Developer Animation" width="500"/>
 
   <br /><br />
 
