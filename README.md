@@ -1,12 +1,14 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Futuristic Developer Animation" width="100%"/>
-
   <h1>Hi, I'm Kuruba Abinay <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
   <p><b>Full Stack Developer | MERN Stack | Java Spring Boot | AI Engineer | GenAI Enthusiast</b></p>
   
   <p>Passionate about building scalable, intelligent systems, exploring Generative AI, and crafting seamless full-stack applications.</p>
 
   <br />
+
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Futuristic Developer Animation" width="650"/>
+
+  <br /><br />
 
   <a href="mailto:abhinaykamagonda@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/abhinaykuruba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
