@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Futuristic AI Globe" width="100%"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Futuristic Developer Animation" width="100%"/>
 
   <h1>Hi, I'm Kuruba Abinay <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
   <p><b>Full Stack Developer | MERN Stack | Java Spring Boot | AI Engineer | GenAI Enthusiast</b></p>
